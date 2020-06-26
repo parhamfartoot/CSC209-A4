@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc -g -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX10.15.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names  CMakeFiles/a4.dir/controller.c.o CMakeFiles/a4.dir/gateway.c.o CMakeFiles/a4.dir/humidity.c.o CMakeFiles/a4.dir/message.c.o CMakeFiles/a4.dir/socket.c.o CMakeFiles/a4.dir/temperature.c.o  -o a4 
